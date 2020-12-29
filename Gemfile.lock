@@ -79,7 +79,7 @@ GEM
     pry-byebug (3.5.0)
       byebug (~> 9.1)
       pry (~> 0.10)
-    rack (2.0.3)
+    rack (2.2.3)
     rack-test (0.8.2)
       rack (>= 1.0, < 3)
     rails (5.1.4)
